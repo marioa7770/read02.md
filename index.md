@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+As a web developer the most important tool that you will use is a text editor. A text editor is basically a "space" where you type out all of your code to create your web page. There are many text editors to choose from one is not particularly better than the other, I think it all depends on what your preferences are. Macs and Window computers come with basic text editors that still work but do not offer the same qualities as and IDE. The main differences between a text editor and an IDE is that a text editor is basic, and an IDE An IDE is a text editor, a filemanager, a compiler, and a debugger all in one software package. With an IDE you can add extensions to make your life easier when writing code, you can think of an IDE like plug ins for your software.
 
-You can use the [editor on GitHub](https://github.com/marioa7770/read02.md/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In the terminal you can basically do everything you would do in finder in mac os
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+some command shortcuts are
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marioa7770/read02.md/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ls- lists all files and folders of current directory your are in pwd - present working directory cd- change directory touch- creates new file mkdir- makes new folder/directory
